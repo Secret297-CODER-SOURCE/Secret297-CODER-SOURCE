@@ -54,17 +54,6 @@ Status: Building the future.
 
 </div>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Secret297-CODER-SOURCE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Secret297-CODER-SOURCE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6"/>
-
-</div>
 
 ---
 
